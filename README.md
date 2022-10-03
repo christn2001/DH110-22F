@@ -1,7 +1,6 @@
 # DH110-22F
 
-## Clean-air project
-### Christopher nott
+## Sustainable Consumption project
+### Christopher Nott - DH 110 Fall 2022
 
-This is my project 
-https://github.com/christn2001/DH110-22F/blob/main/README.md
+### Project Description - 
