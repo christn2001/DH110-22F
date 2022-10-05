@@ -12,6 +12,10 @@ https://toogoodtogo.com/en-us/consumer
 
 Toogoodtogo(TGTG) is a platform that allows restaurants and customers to collaborate in their sales and purchases. It gives restaurants the ability to notify nearby food buyers if they have stock of food that is reaching its expiration and sell their food at a discounted price. The platform is great for sustainable consumption because it ensures that less food goes to waste and that people in need can obtain food at a lower price.
 
+![photo_5616372400920831928_y](https://user-images.githubusercontent.com/114601982/194008312-f5dfa287-b38d-4acd-9c7d-35b8f5a3176f.jpg)
+![photo_5616416385680910281_y](https://user-images.githubusercontent.com/114601982/194008315-ecf3aca2-5304-47ff-9165-bc85e01ecf7f.jpg)
+![photo_5616416385680910280_y](https://user-images.githubusercontent.com/114601982/194008316-bc8067c2-4ac2-4a3c-973e-16b161ac03a8.jpg)
+![photo_5616416385680910279_y](https://user-images.githubusercontent.com/114601982/194008318-61d85fc9-c010-43f5-a6d5-6af909b8e763.jpg)
 
 ### Heuristic 1 - Visibility of System Status
 This platform does an excellent job with the first heuristic. This first heuristic pays attention to the ability of the platform to keep the user in a higher level of awareness to where they know exactly which state they are in when using the platform. For example, when going on the "Browse" or "discover" page, the options displayed on the page have many cues that the user is currently in a stage of trying to find a restaurant to order from.
