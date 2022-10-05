@@ -12,6 +12,8 @@ https://toogoodtogo.com/en-us/consumer
 
 Toogoodtogo(TGTG) is a platform that allows restaurants and customers to collaborate in their sales and purchases. It gives restaurants the ability to notify nearby food buyers if they have stock of food that is reaching its expiration and sell their food at a discounted price. The platform is great for sustainable consumption because it ensures that less food goes to waste and that people in need can obtain food at a lower price.
 
+I think this platform is great because it allows users to easily partake in actions that would help with sustainable consumption It takes actions they complete in their everyday lives(ordering food) and allows it to be performed in a sustainable manner. The app is well designed so that anyone with prior online food ordering experience would be able to use it easily.
+
 ![photo_5616372400920831928_y](https://user-images.githubusercontent.com/114601982/194008312-f5dfa287-b38d-4acd-9c7d-35b8f5a3176f.jpg)
 ![photo_5616416385680910281_y](https://user-images.githubusercontent.com/114601982/194008315-ecf3aca2-5304-47ff-9165-bc85e01ecf7f.jpg)
 ![photo_5616416385680910280_y](https://user-images.githubusercontent.com/114601982/194008316-bc8067c2-4ac2-4a3c-973e-16b161ac03a8.jpg)
