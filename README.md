@@ -80,13 +80,15 @@ I think that the level of interaction on this website is not as high compared to
 This website doesn't seem to require any kind of recall from the user since it is purely informational. So the user can log ont to the website without needing to know anything and already has the viewing options laid out in front of them to decide which strategies to views
 
 ### Heuristic 7 - Flexibility and Efficiency of use
-
+There isn't much flexibility in regards to this website. The usage seems very one-way with few options for user input, only viewing. In terms of efficiency of use, the users are able to search up specific items on the website instead of clicking through every page to get to the page they 
 
 ### Heuristic 8 - Aesthetic and Minimalist design
- 
+Especially with the main navigation of this website, I think the Sustainability Toolkit does a great job when viewed under this heuristic. The home page has all of the important sections laid out clearly and organized while avoiding irrelevant information competing with the relevant info.
 
 ### Heuristic 9 - Help Users recognize, diagnose, and recover from errors
-
+I'm not sure if this heuristic is applicable because it seems like there isn't much room for error on the website as a whole. The website is very easy to navigate and doesn't have many scenarios where an error message would show up.
 
 ### Heuristic 10 - Help Documentation 
+This website does a good job in this sense, since help documentation isn't truly needed to navigate it. A user will be able to navigate the website just fine without any extra help documentation because of the clear labeling and the way that the information is structured.
+
 
