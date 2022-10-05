@@ -9,3 +9,6 @@ Sustainable consumption is a concept that deserves to be very prominent in our l
 
 ### Platform 1: Toogoodtogo
 https://toogoodtogo.com/en-us/consumer
+Toogoodtogo(TGTG) is a platform that allows restaurants and customers to collaborate in their sales and purchases. It gives restaurants the ability to notify nearby food buyers if they have stock of food that is reaching its expiration and sell their food at a discounted price. The platform is great for sustainable consumption because it ensures that less food goes to waste and that people in need can obtain food at a lower price.
+
+
