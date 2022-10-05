@@ -32,9 +32,13 @@ Since this is a food ordering app, it would be possible to run into an error if 
 It's best if user interfaces have a low cognitive load on the user by reducing the amount of items the user must be able to recall from their own memory. TGTG makes sure to always have relevant information displayed in checkout sections. So when viewing a restaurant option, the schedule for pickup is displayed in on the screen there, so that the user doesn't have to think about remembering the exact time to pick up food. In the case that the user forgets when to pick up the food, the scheduled appointment will always be retrievable from the order screen.
 
 ### Heuristic 7 - Flexibility and Efficiency of use
-Flexibility and customization in interfaces allows for advanced and experienced users to use the platform at a faster speed. This concept takes place in TGTG in the form of the Favorites tab. So instead of having to search for a restaurant from the main page, a experienced user can add a specific restaurant option to their favorites and always have it readily available
+Flexibility and customization in interfaces allows for advanced and experienced users to use the platform at a faster speed. This concept takes place in TGTG in the form of the Favorites tab. So instead of having to search for a restaurant from the main page, a experienced user can add a specific restaurant option to their favorites and always have it readily available.
 
 ### Heuristic 8 - Aesthetic and Minimalist design
 This heuristic aims to have only relevant information concisely displayed to the user as any irrelevant information will end up competing with the information that is actually important to be seen by the users. TGTG is a platform for ordering food and already seems to make sure to not overedo that. The information displayed from the home page all the way to checking out food is very minimalistic and is sure to not provide anything that will distract the user from performing their intended task. 
 
 ### Heuristic 9 - Help Users recognize, diagnose, and recover from errors
+It's important that when a user encounters an error that they're informed of what's going on and if they have the ability to recover from it on their own. A very minor error that we can examine on the TGTG app is when they view the Favorites page prior to adding any Favorites options. Clearly, the Favorites feature is unusable without adding any favorites. There is an error message that informs the user of what's going on, stating "No Favorites added yet" then informs the user of how to add favorites to the list.
+
+### Heuristic 10 - Help Documentation 
+This is one heuristic where I think the platform is lacking. This Heuristic states that it's good to provide help documentation when needed. There are definitely moments in using this app where help documentation would be useful(defining terminology for first time users).
