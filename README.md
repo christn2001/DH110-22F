@@ -58,3 +58,5 @@ This is one heuristic where I think the platform is lacking. This Heuristic stat
 https://sustainableconsumption.usdn.org/
 
 The Sustainable Consumption toolkit provides information and strategies for how to live sustainably from an individual level all the way to a community level. It provides strategies for multiple different categories, such as Food, Housing, Climate, Consumer Goods, Business, and Community Purchases
+
+I think the website does a good job of being straightforward in terms of users finding the information they need. Every category for types of sustainability is listed in the home screen where users can quickly find the category of sustainable consumption strategies that applies most to them
