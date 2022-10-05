@@ -7,7 +7,7 @@
 Sustainable consumption is a concept that deserves to be very prominent in our lives as it contains a very strong hold on the quality of our future. We're very fortunate to have the resources we have and consume, but the consumption of these resources many times comes at a cost. Platforms and resources on sustainable consumption are very effective on providing good information and strategies for the average person to consume in an environmentally-friendly manner
 
 
-### Platform 1: Toogoodtogo
+# Platform 1: Toogoodtogo
 https://toogoodtogo.com/en-us/consumer
 
 Toogoodtogo(TGTG) is a platform that allows restaurants and customers to collaborate in their sales and purchases. It gives restaurants the ability to notify nearby food buyers if they have stock of food that is reaching its expiration and sell their food at a discounted price. The platform is great for sustainable consumption because it ensures that less food goes to waste and that people in need can obtain food at a lower price.
@@ -60,3 +60,33 @@ https://sustainableconsumption.usdn.org/
 The Sustainable Consumption toolkit provides information and strategies for how to live sustainably from an individual level all the way to a community level. It provides strategies for multiple different categories, such as Food, Housing, Climate, Consumer Goods, Business, and Community Purchases
 
 I think the website does a good job of being straightforward in terms of users finding the information they need. Every category for types of sustainability is listed in the home screen where users can quickly find the category of sustainable consumption strategies that applies most to them
+
+### Heuristic 1 - Visibility of System Status
+I think this website executes good visibility of system status, especially after looking at how every page and feature of the website has text indicating the current status, letting the user know where they are in the website
+
+### Heuristic 2 - Match between system and the real world
+This website has a lot of complicated terminology within more niche sustainability strategies. I do think that it is lacking a small amount in this aspect since it doesn't have many definitions for key terms throughout the website. Adding some definitions as they introduce more atypical terminology would play a big part in keeping the user more informed as they go about using the website
+
+### Heuristic 3 - User Control and freedom
+Since this is a normal website, undoing and reverting back to previous pages is as easy as pressing the back button at the top of the browser. The website also always has a button that can return you to the home page in case the user ever needs it.
+
+### Heuristic 4 - Consistency and Standards 
+This website performs well under the fourth heuristic. Since all of the concepts within sustainability involve our daily actions, they use terminology that is already being used in the respective industries
+
+### Heuristic 5 - Error Prevention
+I think that the level of interaction on this website is not as high compared to the previous sustainable consumption app, so there isn't as much room for error. The website is designed to be purely informative without much login/customizability/user input. So the room for encountering erors is much smaller.
+
+### Heuristic 6 - Recognition over Recall
+This website doesn't seem to require any kind of recall from the user since it is purely informational. So the user can log ont to the website without needing to know anything and already has the viewing options laid out in front of them to decide which strategies to views
+
+### Heuristic 7 - Flexibility and Efficiency of use
+
+
+### Heuristic 8 - Aesthetic and Minimalist design
+ 
+
+### Heuristic 9 - Help Users recognize, diagnose, and recover from errors
+
+
+### Heuristic 10 - Help Documentation 
+
