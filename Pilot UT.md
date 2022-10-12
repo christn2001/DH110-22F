@@ -6,3 +6,6 @@ https://forms.gle/4RRjpt3rbPTYisgt8
 Link to Pilot UT Video
 Participant: My sister(she didn't want her face to be recorded so we see her hands using the iPhone application).
 https://youtu.be/z61WQEa3gbU
+
+What I learned from the Pilot UT:
+As expected, we saw that the Toogoodtogo platform was very intuitive as it mirrors popular food ordering-apps. The participant acknowledged this at first glance stating that it reminded them of DoorDash, a different online food-ordering platform. Reflecting after the pilot UT, I think i could set up the task completion so that the user has more opportunities to provide spoken feedback. I found that I forgot to mention she could think out loud as she completed the tasks since it wasn't included in my script so I'll be sure to add that after this.
