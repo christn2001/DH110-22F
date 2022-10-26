@@ -27,3 +27,10 @@ Peter is closely approaching completing his university degree and is drafting hi
 To try and reduce his expenses, he aims to make use of the app Toogoodtogo. He opens the app and sees that there are a few shops open nearby that have open timeslots for pickup. This is great timing since he's had a long day and would like to treat himself but also not spend too much. He realizes that the only options for food pickup are for bakeries and boba shops which leaves him confused since he knows that there are plenty of restaurants that should have leftover food that would otherwise go to waste. This leaves him unsure of what to do since he knows that purchasing food on the platform is sustainably wise but he still wants to feed himself a full meal.
 
 Peter then proceeds to navigate through the "market" feature on the app where grocery stores are allowed to enroll alongside the restaurants and bakeries. This is where he can find specific categories of groceries that the stores would urgently like to sell along with recipes that pertain to those specific bought ingredients. This is perfect for Peter as he's been wanting to cook and save money. This separate functionality of the app allows him to do both of those. He clicks on a nearby market and finds a batch of ingredients for sale. To claim it, he reserves it by clicking the 'checkout' button on the app. To get the food, all he has to do is drive to the store before they close and they keep the bag of food ready for him. He then brings the food home and uses the 'recipes' function on the app to learn how to cook an easy meal with the exact ingredients he purchased.
+![Frame 3](https://user-images.githubusercontent.com/114601982/198008805-00a86408-d77c-4451-95c1-ce41cec618eb.png)
+
+## Scenario 2 - Rosie 
+
+
+
+![Frame 4](https://user-images.githubusercontent.com/114601982/198008902-84ba0986-3f67-4ae3-bda7-f4036de43f45.png)
