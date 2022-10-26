@@ -12,3 +12,11 @@ type of platform:
 helps guide sustainably-wise consumption
 
 they're interested in saving money, so implement a cooking and cheap ingredients section. sells specific ingredients that grocery stores want to get rid of + provide meals that are compatible with said ingredients
+
+## Persona 1 - Peter
+![Persona 1 - Peter](https://user-images.githubusercontent.com/114601982/197978685-12eef2ee-ff72-4c6f-ab0b-514d038603cc.png)
+
+## Persona 2 - Rosie
+![Persona 2- Rosie](https://user-images.githubusercontent.com/114601982/197978732-9674ae9c-49c2-4f7e-9cca-173f2b78ec37.png)
+
+
