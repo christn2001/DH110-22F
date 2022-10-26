@@ -25,3 +25,5 @@ they're interested in saving money, so implement a cooking and cheap ingredients
 Peter is closely approaching completing his university degree and is drafting his plans to move out on his own. He's been working at his on-campus job quite frequently and is saving up to buy a car soon. Ideally, he would like to cut down the amount of money he spends on dining out and would like for a reliable solution. 
 
 To try and reduce his expenses, he aims to make use of the app Toogoodtogo. He opens the app and sees that there are a few shops open nearby that have open timeslots for pickup. This is great timing since he's had a long day and would like to treat himself but also not spend too much. He realizes that the only options for food pickup are for bakeries and boba shops which leaves him confused since he knows that there are plenty of restaurants that should have leftover food that would otherwise go to waste. This leaves him unsure of what to do since he knows that purchasing food on the platform is sustainably wise but he still wants to feed himself a full meal.
+
+Peter
