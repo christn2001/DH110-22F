@@ -42,4 +42,5 @@ The high fidelity prototype resembles how the application would actually look in
 [Video Link](https://drive.google.com/file/d/1qzd6qKEwz-Kut8VLSZTXfVOoPpCZ2yxv/view?usp=sharing)
 
 
-13) Conclusion: what did you learn throughout the process?
+## Conclusion: what did you learn throughout the process?
+The overall design process was very long as it spanned the 10 weeks of our classes. It gave me insight on how much thought and effort goes into designing a user experience and how high-level we have to think in order design something well. I learned that even from the beginning, there are rudimental principles that can make or break a design if they are not fulfilled correctly. I realized that this takes place at every single level, whether it comes to researching an audience, creating personas, monitoring the user's journey, or choosing which colors to use in the interface. After completing the various assignments and getting feedback, I learned that mistakes can happen at any stage of the design process and that as we learn more about our audience and the design, those insights become more and more valuable. I previously heard designers say that the earlier you can identify a problem in a design, the easier it is to fix.
