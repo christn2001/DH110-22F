@@ -38,8 +38,8 @@ For this section, we narrow down to the visual design elements of the applicatio
 The high fidelity prototype resembles how the application would actually look in its practical use and is designed to be navigated in its intended way. This interactive prototype allows us to run usability testing, viewing when users are able to understand the interface and also when they run into problems. We can take note of these problems and iterate them, assessing whether or not changes must be made. This stage of the design process is where we took the previous wireframes and Graphic design elements and used it to create a functioning prototype that would resemble the actual application in use. It is designed to complete two tasks: make an order for surprise bag groceries and view recipes that are relevant to our order. 
 [Figma Link](https://www.figma.com/file/MlkM1nKF9SXcuo9VXr0doi/DH110-Wireframes?node-id=138%3A904)
 
-
-11) [Pitch video ](https://drive.google.com/file/d/1qzd6qKEwz-Kut8VLSZTXfVOoPpCZ2yxv/view?usp=sharing)
+## Pitch Video
+[Video Link](https://drive.google.com/file/d/1qzd6qKEwz-Kut8VLSZTXfVOoPpCZ2yxv/view?usp=sharing)
 
 
 13) Conclusion: what did you learn throughout the process?
