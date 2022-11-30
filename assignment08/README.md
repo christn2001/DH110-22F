@@ -1,9 +1,9 @@
-1) Project title + Your name
-Reinventing Sustainably-wise Food Consumption - Christopher Nott
 
-3) Introduction: a brief information about the project. 
+# Reinventing Sustainably-wise Food Consumption - Christopher Nott
+
+## Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
-
+The topic category I chose at the beginning of the quarter was sustainable consumption. I ended up doing some research and found an existing platform called TooGoodToGo, which is a mobile application that connects food-buyers and restaurant owners to sell leftovers from the day and prevent food waste. It allows you to pay a small fee (about $5) to reserve a surprise bag from a nearby restaurant. The restaurants put whatever they choose into the surprise bags and the buyers can pick it up whenever available. Restaurants tend to have lots of leftover food items that will end up being thrown away, so this application allows them to lessen the amount of food wasted and increase sales very slightly. Overall, the platform promotes and encourages sustainably-wise consumption by lessening the amount of food waste. My project aims to pick up on the current state of the platform and add features that will put food in the right hands and give indivuals the opportunity to save money and help the environment.
 
 3) Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
