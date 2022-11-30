@@ -1,94 +1,46 @@
-# DH110-22F
 
-## Sustainable Consumption project
-### Christopher Nott - DH 110 Fall 2022
+# Reinventing Sustainably-wise Food Consumption - Christopher Nott
 
-### Project Description
-Sustainable consumption is a concept that deserves to be very prominent in our lives as it contains a very strong hold on the quality of our future. We're very fortunate to have the resources we have and consume, but the consumption of these resources many times comes at a cost. Platforms and resources on sustainable consumption are very effective on providing good information and strategies for the average person to consume in an environmentally-friendly manner
+## Introduction: a brief information about the project. 
+The topic category I chose at the beginning of the quarter was sustainable consumption. I ended up doing some research and found an existing platform called TooGoodToGo, which is a mobile application that connects food-buyers and restaurant owners to sell leftovers from the day and prevent food waste. It allows you to pay a small fee (about $5) to reserve a surprise bag from a nearby restaurant. The restaurants put whatever they choose into the surprise bags and the buyers can pick it up whenever available. Restaurants tend to have lots of leftover food items that will end up being thrown away, so this application allows them to lessen the amount of food wasted and increase sales very slightly. Overall, the platform promotes and encourages sustainably-wise consumption by lessening the amount of food waste. My project aims to pick up on the current state of the platform and add features that will put food in the right hands and give indivuals the opportunity to save money and help the environment.
 
+## Clear design statement: 
+What is the issue and Why do you think it is important to resolve that issue by your project? 
+The current state of the app is very functional and is already serving the environment well. Many restaurants have enrolled in the platform and have been offering extra food at the end of their operating hours. However, the concept of this application can be expanded to other relevant services as well. Distributing leftovers from restaurants helps greatly on one end of the food market, but if this concept was extrapolated to grocery stores and markets to allow them to distribute leftover ingredients, it could make a great impact on sustainably-wise consumption.
 
-# Platform 1: Toogoodtogo
-https://toogoodtogo.com/en-us/consumer
+## Competitor analysis:
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+I first completed testing for the 10 Design Heuristics in regards to the TooGoodToGo platform. The 10 heuristics compose different aspects of design that are essential to any kind of interface. After going through this mobile platform and comparing it to these heuristics, I found that it did a very good job following almost all 10 of them. The only thing I noticed was some complicated terminology being used without definitions, but otherwise, the interface is designed well. I also ran usability testing with my sister to see how easily she could make a reservation for a surprise bag and she completed it without many struggles. [Read More(Heuristics)](https://github.com/christn2001/DH110-22F/blob/main/README.md), [Read More(Pilot UT)](https://github.com/christn2001/DH110-22F/blob/main/Pilot%20UT.md)
 
-Toogoodtogo(TGTG) is a platform that allows restaurants and customers to collaborate in their sales and purchases. It gives restaurants the ability to notify nearby food buyers if they have stock of food that is reaching its expiration and sell their food at a discounted price. The platform is great for sustainable consumption because it ensures that less food goes to waste and that people in need can obtain food at a lower price.
+## User research:
+How can we make it easier for mobile phone users to consume food in a sustainably-wise way? In order to do this, it requires that they have the means to do so. If there is a way users could get access to an index of restaurants/food suppliers that can provide opportunities for sustainably-wise food consumption, that would enable them to achieve responsible consumption. Currently if someone wishes to do this, there exist some platforms that provide information and opportunities for people to order food online. However, the amount of platforms and restaurants signed up for them are limited, so the amount of wise-consumption is more limited than we'd like. Our target user for this research would mostly be people who care for the environment and for the future. Younger people are going to live in this future and they tend to be the ones who care the most about it. I would consider the target audience to be younger adults, ages 18-30. From interviewing my friend Emma who is of the target audience, I learned a lot about her means and accessibility to sustainably wise-choices. She already tries to prevent food waste in her own dining habits but didn't know about resources for purchasing food to prevent waste. She was very willing to try out the platform she found which I believe other members of this target audience would feel the same way. [Read More](https://github.com/christn2001/DH110-22F/blob/main/user%20research.md)
 
-I think this platform is great because it allows users to easily partake in actions that would help with sustainable consumption It takes actions they complete in their everyday lives(ordering food) and allows it to be performed in a sustainable manner. The app is well designed so that anyone with prior online food ordering experience would be able to use it easily.
-
-![photo_5616372400920831928_y](https://user-images.githubusercontent.com/114601982/194008312-f5dfa287-b38d-4acd-9c7d-35b8f5a3176f.jpg)
-![photo_5616416385680910281_y](https://user-images.githubusercontent.com/114601982/194008315-ecf3aca2-5304-47ff-9165-bc85e01ecf7f.jpg)
-![photo_5616416385680910280_y](https://user-images.githubusercontent.com/114601982/194008316-bc8067c2-4ac2-4a3c-973e-16b161ac03a8.jpg)
-![photo_5616416385680910279_y](https://user-images.githubusercontent.com/114601982/194008318-61d85fc9-c010-43f5-a6d5-6af909b8e763.jpg)
-
-### Heuristic 1 - Visibility of System Status
-This platform does an excellent job with the first heuristic. This first heuristic pays attention to the ability of the platform to keep the user in a higher level of awareness to where they know exactly which state they are in when using the platform. For example, when going on the "Browse" or "discover" page, the options displayed on the page have many cues that the user is currently in a stage of trying to find a restaurant to order from.
-
-### Heuristic 2 - Match between system and the real world
-Heuristic 2 involves reaching a collective commonality between term usage on the platform where the users are able to understand the words used in the interface using commonly-used terminology. The concept of the application is based on ordering food and preventing food waste, and the platform does a good job of limiting the term usage in that realm to terminology that is used in regular life.
-
-### Heuristic 3 -User Control and freedom
-No matter what the current state of the app is, there is always a way for the user to revert or undo their last action and return to the previous state. Navigating the pages through the four buttons on the bottom is always present and if we select a restaurant option on one of those pages which leads us into a subpage, there is always a back arrow button present on the top left hand corner in case the user wants to undo the action and go back.
-
-### Heuristic 4 - Consistency and Standards 
-Toogoodtogo follows industry standards in terms of overall structure of the application and also for terminology. This makes it easy for new users to pick up and learn how to use the app since most of them already will have experience with online shopping/ording food on other apps. There is one new term that is prominent in the platform which is "Surprise Bag" but the terminology is simple enough to the point where the user can easily infer what the meaning of the term is.
-
-### Heuristic 5 - Error Prevention
-Since this is a food ordering app, it would be possible to run into an error if we tried to order a surprise bag from a restaurant that was out of stock. The application prevents errors by labeling sold-out deals and greying out these options so that they are no longer selectable as an option. Without this feature, users migh attempt to order food from a restaurant that already ran out of surprise bags which wouldn't be the best outcome
-
-### Heuristic 6 - Recognition over Recall
-It's best if user interfaces have a low cognitive load on the user by reducing the amount of items the user must be able to recall from their own memory. TGTG makes sure to always have relevant information displayed in checkout sections. So when viewing a restaurant option, the schedule for pickup is displayed in on the screen there, so that the user doesn't have to think about remembering the exact time to pick up food. In the case that the user forgets when to pick up the food, the scheduled appointment will always be retrievable from the order screen.
-
-### Heuristic 7 - Flexibility and Efficiency of use
-Flexibility and customization in interfaces allows for advanced and experienced users to use the platform at a faster speed. This concept takes place in TGTG in the form of the Favorites tab. So instead of having to search for a restaurant from the main page, a experienced user can add a specific restaurant option to their favorites and always have it readily available.
-
-### Heuristic 8 - Aesthetic and Minimalist design
-This heuristic aims to have only relevant information concisely displayed to the user as any irrelevant information will end up competing with the information that is actually important to be seen by the users. TGTG is a platform for ordering food and already seems to make sure to not overedo that. The information displayed from the home page all the way to checking out food is very minimalistic and is sure to not provide anything that will distract the user from performing their intended task. 
-
-### Heuristic 9 - Help Users recognize, diagnose, and recover from errors
-It's important that when a user encounters an error that they're informed of what's going on and if they have the ability to recover from it on their own. A very minor error that we can examine on the TGTG app is when they view the Favorites page prior to adding any Favorites options. Clearly, the Favorites feature is unusable without adding any favorites. There is an error message that informs the user of what's going on, stating "No Favorites added yet" then informs the user of how to add favorites to the list.
-
-### Heuristic 10 - Help Documentation 
-This is one heuristic where I think the platform is lacking. This Heuristic states that it's good to provide help documentation when needed. There are definitely moments in using this app where help documentation would be useful(defining terminology for first time users).
+## UX storytelling:
+As designers, we would be very limited if we restricted our point of view to merely our own. This is why we view UX storytelling as very important, since it forces us to view the project from multiple users' point of views and gives us insight on how to design around the user before actually interacting with real users. We can think our way through the user's entire process of using a platform from start to finish and try to envision any pain points or struggles that may come about in the process. [Read More](https://github.com/christn2001/DH110-22F/blob/main/DH100%20Assignment%204.md)
+![image](https://user-images.githubusercontent.com/114601982/204727643-13833057-28b1-46d2-9e77-2f3b4fd29bc6.png)
 
 
-# Website 2 - Sustainable Consumption Toolkit
-![image](https://user-images.githubusercontent.com/114601982/194010992-1c2d8b0b-d9f4-4564-92d5-3ea5eb6877a4.png)
-![image](https://user-images.githubusercontent.com/114601982/194011077-af7b471d-8623-4319-b5f8-bf8a6cf35665.png)
-![image](https://user-images.githubusercontent.com/114601982/194011148-f4638ca8-ec3a-461d-828d-bad3d3eff75d.png)
-
-https://sustainableconsumption.usdn.org/
-
-The Sustainable Consumption toolkit provides information and strategies for how to live sustainably from an individual level all the way to a community level. It provides strategies for multiple different categories, such as Food, Housing, Climate, Consumer Goods, Business, and Community Purchases
-
-I think the website does a good job of being straightforward in terms of users finding the information they need. Every category for types of sustainability is listed in the home screen where users can quickly find the category of sustainable consumption strategies that applies most to them
-
-### Heuristic 1 - Visibility of System Status
-I think this website executes good visibility of system status, especially after looking at how every page and feature of the website has text indicating the current status, letting the user know where they are in the website
-
-### Heuristic 2 - Match between system and the real world
-This website has a lot of complicated terminology within more niche sustainability strategies. I do think that it is lacking a small amount in this aspect since it doesn't have many definitions for key terms throughout the website. Adding some definitions as they introduce more atypical terminology would play a big part in keeping the user more informed as they go about using the website
-
-### Heuristic 3 - User Control and freedom
-Since this is a normal website, undoing and reverting back to previous pages is as easy as pressing the back button at the top of the browser. The website also always has a button that can return you to the home page in case the user ever needs it.
-
-### Heuristic 4 - Consistency and Standards 
-This website performs well under the fourth heuristic. Since all of the concepts within sustainability involve our daily actions, they use terminology that is already being used in the respective industries
-
-### Heuristic 5 - Error Prevention
-I think that the level of interaction on this website is not as high compared to the previous sustainable consumption app, so there isn't as much room for error. The website is designed to be purely informative without much login/customizability/user input. So the room for encountering erors is much smaller.
-
-### Heuristic 6 - Recognition over Recall
-This website doesn't seem to require any kind of recall from the user since it is purely informational. So the user can log ont to the website without needing to know anything and already has the viewing options laid out in front of them to decide which strategies to views
-
-### Heuristic 7 - Flexibility and Efficiency of use
-There isn't much flexibility in regards to this website. The usage seems very one-way with few options for user input, only viewing. In terms of efficiency of use, the users are able to search up specific items on the website instead of clicking through every page to get to the page they 
-
-### Heuristic 8 - Aesthetic and Minimalist design
-Especially with the main navigation of this website, I think the Sustainability Toolkit does a great job when viewed under this heuristic. The home page has all of the important sections laid out clearly and organized while avoiding irrelevant information competing with the relevant info.
-
-### Heuristic 9 - Help Users recognize, diagnose, and recover from errors
-I'm not sure if this heuristic is applicable because it seems like there isn't much room for error on the website as a whole. The website is very easy to navigate and doesn't have many scenarios where an error message would show up.
-
-### Heuristic 10 - Help Documentation 
-This website does a good job in this sense, since help documentation isn't truly needed to navigate it. A user will be able to navigate the website just fine without any extra help documentation because of the clear labeling and the way that the information is structured.
+## Wireframe and Wireflow, Low Fidelity Prototype:
+This part of the design process was definitely the most fun for me to complete. Seeing ideas come to fruition in the form of a prototype test was very gratifying. I was able to test out the idea of incorporating a new grocery shopping feature on the app and see how it would fit with all of the other features already available. I was worried that having so many different options (restaurants and now groceries) would result in the platform being overall more difficult to navigate. However, it seems like based off of the prototype testing that implementing the grocery section was not too much to offer. For the second task, there were more difficulties in completing the tasks with ambiguous button locations and unclear current states of the platform. Finding the 'recipes' page was rather difficult because of how sectioned off the button was. Choosing a filter also took slightly longer than expected since the participant didn't know which filter was currently being applied before changing it. For changes to the interface, I would want to move the recipes button to a more central location and not have it so hidden. This will make it much easier for users to find and will be a better spot for it considering how vital the feature is to the platform. For the filter, I would simply add a status bar stating which filter is currently being applied to the recipe list so that the user knows what kind of recipe list they are currently looking at. [Read More](https://github.com/christn2001/DH110-22F/blob/main/DH110%20A5.md)
+![image](https://user-images.githubusercontent.com/114601982/204728044-17452646-665a-4484-b9ba-f3e73611f0c8.png)
 
 
+## Graphic Design Elements:
+For this section, we narrow down to the visual design elements of the application to try and convert the low-fidelity prototype to a high-fidelity prototype. We define properties for typography, color palette, spacing, and shape variation. For typography, all of the text was based off of the Poppins family with smaller font sizes due to it being a mobile application. The color palette consisted of many nature-esque, green and earthy colors as displayed below. I also followed consistent shaping principles, with 10px being the space between things and 15px margins across the page. [Read More](https://github.com/christn2001/DH110-22F/blob/main/A6.md)
+
+![image](https://user-images.githubusercontent.com/114601982/204730354-ce31b0c7-dcea-467d-998f-b18daa8999a9.png)
+![image](https://user-images.githubusercontent.com/114601982/204730286-9076e9ab-9cad-4383-a4bc-c55bde1fc77e.png)
+![image](https://user-images.githubusercontent.com/114601982/204730303-a909b298-e5b6-4c0e-b562-184fe517f7e8.png)
+![image](https://user-images.githubusercontent.com/114601982/204730399-c6e4ba79-5f6f-4646-b916-ef537ac45776.png)
+
+
+## High-fidelity prototype:
+The high fidelity prototype resembles how the application would actually look in its practical use and is designed to be navigated in its intended way. This interactive prototype allows us to run usability testing, viewing when users are able to understand the interface and also when they run into problems. We can take note of these problems and iterate them, assessing whether or not changes must be made. This stage of the design process is where we took the previous wireframes and Graphic design elements and used it to create a functioning prototype that would resemble the actual application in use. It is designed to complete two tasks: make an order for surprise bag groceries and view recipes that are relevant to our order. 
+[Figma Link](https://www.figma.com/file/MlkM1nKF9SXcuo9VXr0doi/DH110-Wireframes?node-id=138%3A904)
+
+## Pitch Video
+[Video Link](https://drive.google.com/file/d/1qzd6qKEwz-Kut8VLSZTXfVOoPpCZ2yxv/view?usp=sharing)
+
+
+## Conclusion: what did you learn throughout the process?
+The overall design process was very long as it spanned the 10 weeks of our classes. It gave me insight on how much thought and effort goes into designing a user experience and how high-level we have to think in order design something well. I learned that even from the beginning, there are rudimental principles that can make or break a design if they are not fulfilled correctly. I realized that this takes place at every single level, whether it comes to researching an audience, creating personas, monitoring the user's journey, or choosing which colors to use in the interface. After completing the various assignments and getting feedback, I learned that mistakes can happen at any stage of the design process and that as we learn more about our audience and the design, those insights become more and more valuable. I previously heard designers say that the earlier you can identify a problem in a design, the easier it is to fix. This was the first time I saw that idea in action in designing my own interfact and conducting myh own research. Overall, I learned that it is important to pay attention to detail and be open to new insights every step of the way.
