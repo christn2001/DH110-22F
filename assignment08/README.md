@@ -15,17 +15,17 @@ I first completed testing for the 10 Design Heuristics in regards to the TooGood
 ## User research:
 How can we make it easier for mobile phone users to consume food in a sustainably-wise way? In order to do this, it requires that they have the means to do so. If there is a way users could get access to an index of restaurants/food suppliers that can provide opportunities for sustainably-wise food consumption, that would enable them to achieve responsible consumption. Currently if someone wishes to do this, there exist some platforms that provide information and opportunities for people to order food online. However, the amount of platforms and restaurants signed up for them are limited, so the amount of wise-consumption is more limited than we'd like. Our target user for this research would mostly be people who care for the environment and for the future. Younger people are going to live in this future and they tend to be the ones who care the most about it. I would consider the target audience to be younger adults, ages 18-30. From interviewing my friend Emma who is of the target audience, I learned a lot about her means and accessibility to sustainably wise-choices. She already tries to prevent food waste in her own dining habits but didn't know about resources for purchasing food to prevent waste. She was very willing to try out the platform she found which I believe other members of this target audience would feel the same way. [Read More](https://github.com/christn2001/DH110-22F/blob/main/user%20research.md)
 
-## UX storytelling
+## UX storytelling:
 As designers, we would be very limited if we restricted our point of view to merely our own. This is why we view UX storytelling as very important, since it forces us to view the project from multiple users' point of views and gives us insight on how to design around the user before actually interacting with real users. We can think our way through the user's entire process of using a platform from start to finish and try to envision any pain points or struggles that may come about in the process. [Read More](https://github.com/christn2001/DH110-22F/blob/main/DH100%20Assignment%204.md)
 ![image](https://user-images.githubusercontent.com/114601982/204727643-13833057-28b1-46d2-9e77-2f3b4fd29bc6.png)
 
 
-## Wireframe and Wireflow, Low Fidelity Prototype 
+## Wireframe and Wireflow, Low Fidelity Prototype:
 This part of the design process was definitely the most fun for me to complete. Seeing ideas come to fruition in the form of a prototype test was very gratifying. I was able to test out the idea of incorporating a new grocery shopping feature on the app and see how it would fit with all of the other features already available. I was worried that having so many different options (restaurants and now groceries) would result in the platform being overall more difficult to navigate. However, it seems like based off of the prototype testing that implementing the grocery section was not too much to offer. For the second task, there were more difficulties in completing the tasks with ambiguous button locations and unclear current states of the platform. Finding the 'recipes' page was rather difficult because of how sectioned off the button was. Choosing a filter also took slightly longer than expected since the participant didn't know which filter was currently being applied before changing it. For changes to the interface, I would want to move the recipes button to a more central location and not have it so hidden. This will make it much easier for users to find and will be a better spot for it considering how vital the feature is to the platform. For the filter, I would simply add a status bar stating which filter is currently being applied to the recipe list so that the user knows what kind of recipe list they are currently looking at. [Read More](https://github.com/christn2001/DH110-22F/blob/main/DH110%20A5.md)
 ![image](https://user-images.githubusercontent.com/114601982/204728044-17452646-665a-4484-b9ba-f3e73611f0c8.png)
 
 
-## Graphic Design Elements
+## Graphic Design Elements:
 For this section, we narrow down to the visual design elements of the application to try and convert the low-fidelity prototype to a high-fidelity prototype. We define properties for typography, color palette, spacing, and shape variation. For typography, all of the text was based off of the Poppins family with smaller font sizes due to it being a mobile application. The color palette consisted of many nature-esque, green and earthy colors as displayed below. I also followed consistent shaping principles, with 10px being the space between things and 15px margins across the page. [Read More](https://github.com/christn2001/DH110-22F/blob/main/A6.md)
 
 ![image](https://user-images.githubusercontent.com/114601982/204730354-ce31b0c7-dcea-467d-998f-b18daa8999a9.png)
@@ -34,13 +34,12 @@ For this section, we narrow down to the visual design elements of the applicatio
 ![image](https://user-images.githubusercontent.com/114601982/204730399-c6e4ba79-5f6f-4646-b916-ef537ac45776.png)
 
 
-9) High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+## High-fidelity prototype:
+The high fidelity prototype resembles how the application would actually look in its practical use and is designed to be navigated in its intended way. This interactive prototype allows us to run usability testing, viewing when users are able to understand the interface and also when they run into problems. We can take note of these problems and iterate them, assessing whether or not changes must be made. This stage of the design process is where we took the previous wireframes and Graphic design elements and used it to create a functioning prototype that would resemble the actual application in use. It is designed to complete two tasks: make an order for surprise bag groceries and view recipes that are relevant to our order. 
+[Figma Link](https://www.figma.com/file/MlkM1nKF9SXcuo9VXr0doi/DH110-Wireframes?node-id=138%3A904)
 
-10) Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-11) Pitch video 
+11) [Pitch video ](https://drive.google.com/file/d/1qzd6qKEwz-Kut8VLSZTXfVOoPpCZ2yxv/view?usp=sharing)
 
 
 13) Conclusion: what did you learn throughout the process?
